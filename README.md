@@ -1,4 +1,4 @@
 # PayTrail
-API documentation for Paytrail paymentgateway
+API os3 documentation for Paytrail paymentgateway 
 
-this is the API reference and example documentation for the new Paytrail Payment API
+this is the os3 specific API reference and example documentation for the new Paytrail Payment API
